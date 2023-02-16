@@ -5,3 +5,5 @@ next
 } 
 print(val) 
 }
+
+#O next fez o nº 3 ser pulado
